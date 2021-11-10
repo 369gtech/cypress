@@ -104,7 +104,7 @@
     "glob": "7.1.2",
     "graceful-fs": "^4.1.11",
     "gulp-util": "^3.0.6",
-    "hbs": "4.0.0",
+    "hbs": "4.0.2",
     "http-accept": "^0.1.6",
     "http-proxy": "^1.13.2",
     "http-status-codes": "^1.0.6",
