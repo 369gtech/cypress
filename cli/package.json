@@ -55,7 +55,7 @@
     "lodash": "4.17.4",
     "minimist": "1.2.0",
     "progress": "1.1.8",
-    "ramda": "0.24.1",
+    "ramda": "0.27.2",
     "request": "2.81.0",
     "request-progress": "0.3.1",
     "tmp": "0.0.31",
